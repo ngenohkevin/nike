@@ -1,7 +1,7 @@
 
 const PopularProducts = () => {
   return (
-    <section id="products">
+    <section id="products" className="max-container">
       
     </section>
   )
