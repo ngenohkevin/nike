@@ -1,7 +1,7 @@
 
 const PopularProducts = () => {
   return (
-    <section>
+    <section id="products">
       
     </section>
   )
