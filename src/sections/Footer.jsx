@@ -62,7 +62,9 @@ const Footer = () => {
            />
            <p>Copyright. All rights reserved.</p>
         </div>
-        <p>Terms & Conditions</p>
+        <p >
+          Terms & Conditions
+        </p>
       </div>
     </footer>
   )
