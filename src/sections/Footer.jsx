@@ -9,10 +9,10 @@ const Footer = () => {
         <div className="flex flex-col items-start">
           <a href="/">
             <img
-             src={footerLogo}
-            alt=""
-            width={150}
-            height={46}
+              src={footerLogo}
+              alt=""
+              width={150}
+              height={46}
             />
           </a>
           <p className="mt-6 text-base leading-7 font-montserrat text-white-400
