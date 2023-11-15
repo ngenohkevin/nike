@@ -25,10 +25,10 @@ const Footer = () => {
               <div className="flex items-center justify-center bg-white rounded-full w-12 h-12 "
                key={icon}>
                 <img 
-                src={icon.src} 
-                alt={icon.alt}
-                width={24}
-                height={24}
+                  src={icon.src} 
+                  alt={icon.alt}
+                  width={24}
+                  height={24}
                  />
               </div>
             ))}
