@@ -10,7 +10,7 @@ const Footer = () => {
           <a href="/">
             <img
               src={footerLogo}
-              alt=""
+              alt="footer logo"
               width={150}
               height={46}
             />
